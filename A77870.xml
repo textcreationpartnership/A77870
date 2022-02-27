@@ -1,0 +1,372 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of the ministers of the Gospel in, and about London, from the unjust aspersions cast upon their former actings for the Parliament, as if they had promoted the bringing of the King to capitall punishment With a short exhortation to their people to keep close to their covenant-ingagement.</title>
+            <author>Burges, Cornelius, 1589?-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77870</idno>
+            <idno type="STC">Wing B5690A</idno>
+            <idno type="STC">Thomason E540_11</idno>
+            <idno type="STC">ESTC R205758</idno>
+            <idno type="EEBO-CITATION">99896890</idno>
+            <idno type="PROQUEST">99896890</idno>
+            <idno type="VID">135390</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77870)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135390)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2454:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of the ministers of the Gospel in, and about London, from the unjust aspersions cast upon their former actings for the Parliament, as if they had promoted the bringing of the King to capitall punishment With a short exhortation to their people to keep close to their covenant-ingagement.</title>
+                  <author>Burges, Cornelius, 1589?-1665.</author>
+               </titleStmt>
+               <extent>[2], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by A.M. for Th. Vnderhill at the Bible in Woodstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648. [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drawn up by Cornelius Burges during Charles I's trial in January 1649 and signed at the end by him and 56 other ministers.</note>
+                  <note>The publication date is given according to Lady Day dating.</note>
+                  <note>Annotation on Thomason copy: "Jan. 27".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135390:1"/>
+            <!-- PDF PAGE 10 -->
+            <pb facs="tcp:135390:1"/>
+            <!-- PDF PAGE 10 -->
+            <p>A VINDICATION OF THE Miniſters of the Goſpel in, and about <hi>London,</hi> from the unjuſt Aſperſions caſt upon their former Actings for the Parliament, as if they had pro<g ref="char:EOLhyphen"/>moted the bringing of the KING to Capitall puniſhment.</p>
+            <p>WITH A ſhort Exhortation to their People to keep cloſe to their Covenant-Ingagement.</p>
+            <q>
+               <bibl>
+                  <hi>Iſaiah 62.1.</hi>
+               </bibl>
+               <p>For Zions ſake I will not hold my peace, and for Ieruſalems ſake I will not reſt, untill the righteouſneſse thereof go forth as brightneſſe, and the ſalvation thereof as a lamp <hi>that</hi> burneth.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Prov. 24. 21, 22.</hi>
+               </bibl>
+               <p>My ſon, fear thou the Lord and the King, and meddle not with them that are given to change.</p>
+               <p>
+                  <hi>For their calamity ſhall riſe ſuddenly, and who knoweth the ruine of them both?</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. M.</hi> for <hi>Th. <g ref="char:V">Ʋ</g>nderhill</hi> at the Bible in Woodſtreet. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="vindication">
+            <pb facs="tcp:135390:2"/>
+            <!-- PDF PAGE 11 -->
+            <pb n="1" facs="tcp:135390:2"/>
+            <!-- PDF PAGE 11 -->
+            <head>A VINDICATION OF THE MINISTERS OF THE GOSPEL in, and about <hi>London,</hi> from the unjuſt Aſperſions caſt upon their former Actings for the Parliament, as if they had promoted the bringing of the KING to Capitall puniſhment.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T cannot be unknown how much we, and other Miniſters of this City and Kingdom that faithfully adhered to the Parliament, have injuriouſly ſmarted under the ſcourge of evil tongues and pens, ever ſince the firſt eruption of the unhappy differences and unnaturall warre between the King and Parliament, for our obedience to the Commands and Orders of the Honourable Houſes, in their conteſts with his Majeſty, and conflicts with his Armies.</p>
+            <p>We are not ignorant of the over-buſie entermedlings of Prelates and their party heretofore, in over-ruling civil affairs to the great endangering of Kingdoms, and of this in particular, when private intereſts, ambitious deſignes, revenge, or other ſiniſter ends, engaged them beyond their ſphere. Howbeit, it cannot reaſonably (as we conceive) be denied, that Miniſters, as <hi>ſubjects,</hi> being bound to obey the Laws and to preſerve the Liberties of
+<pb n="2" facs="tcp:135390:3"/>
+               <!-- PDF PAGE 12 -->the Kingdom, and having an intereſt in them and the happineſſe of them, as well as others, may and ought, (without incurring the juſt cenſure due to buſie<g ref="char:EOLhyphen"/>bodies and incendiaries) to appear, for preſerving the Laws and Liberties of that Common-wealth whereof they are members, eſpecially in our caſe, when it was de<g ref="char:EOLhyphen"/>clared by the Parliament, that all was at ſtake, and in danger to be loſt. No, nor as <hi>Miniſters</hi> ought they to hold their peace, in a time wherein the ſins of Rulers and Magiſtrates as well as others, have ſo far provoked God as to kindle the fire of his wrath againſt his people. And yet, for this alone, the faithfull ſervants of God, have in all ages, through the malice of Satan and his inſtruments been traduced as Arch-incendiaries, when only their ac<g ref="char:EOLhyphen"/>cuſers are indeed guilty of both laying the train, and of putting fire to it, to blow up a Kingdom.</p>
+            <p>An <hi>Ahab</hi> and his ſycophants think none ſo fit to bear the odium of being the grand <hi>Troubler of Iſrael,</hi> as <hi>Elijah.</hi> Thus, the popiſh device was, to charge the <hi>Gun-powder Treaſon</hi> (had it taken effect) upon the <hi>Puritans:</hi> And, if you beleeve <hi>Tertullus,</hi> even a <hi>Paul</hi> is a <hi>peſtilent fellow, a mover of ſedition throughout the world,</hi> a <hi>ringleader</hi> of a <hi>ſect,</hi> and what not, but what he is? Yea, <hi>Chriſt</hi> himſelf (though a friend to <hi>Monarchy,</hi> even of heatheniſh <hi>Rome.</hi>) is pro<g ref="char:EOLhyphen"/>claimed <hi>an enemy to Caeſar,</hi> to open a way to his deſtru<g ref="char:EOLhyphen"/>ction, by their malice, who never cared for the intereſt of <hi>Caeſar.</hi>
+            </p>
+            <p>Wherefore, although <hi>with us,</hi> who have had expe<g ref="char:EOLhyphen"/>rience of like uſage, <hi>it be a ſmall thing to be</hi> thus <hi>judged of men,</hi> when we regard only our own particular perſons: For, <hi>if they call the maſter of the houſe Beel-zebub, how much more thoſe of his houſhold?</hi> yet when we conſider
+<pb n="3" facs="tcp:135390:3"/>
+               <!-- PDF PAGE 12 -->how much it concerns the honour of our Maſter, and the good of all, to preſerve our miniſteriall function imma<g ref="char:EOLhyphen"/>culate (our good names, being in that relation, as need<g ref="char:EOLhyphen"/>full to others, as a good conſcience to our ſelves) we dare not but ſtand by and aſſert the integrity of our hearts, and the innocency of all our actings (in refe<g ref="char:EOLhyphen"/>rence to the King and Kingdome) for which we are ſo much calumniated and traduced.</p>
+            <p>This we are compelled to at this time, becauſe there are many who very confidently (yet moſt unjuſtly) charge us to have been formerly inſtrumentall, toward the taking away the life of the King. And becauſe alſo there are others who in their ſcurrilous Paſquils and Li<g ref="char:EOLhyphen"/>bels (as well as with their virulent tongues) preſent us to the world as a <hi>bloudy ſeditious ſect, and traiterous ob<g ref="char:EOLhyphen"/>ſtructors, of what all the godly people of the Kingdome doe earneſtly deſire for eſtabliſhing of Religion and Peace,</hi> in that we ſtick at the <hi>Execution</hi> of the King, while yet we are (as they falſly affirm) content to have him <hi>convicted</hi> and <hi>condemned:</hi> all which we muſt, and do from our hearts diſclaim, before the whole world.</p>
+            <p>For when we did firſt engage with the Parliament, (which we did not till called thereunto) we did it with loyall hearts and affection towards the King, and his poſterity. Not intending the leaſt hurt to his Perſon, but to ſtop his party from doing further hurt to the Kingdome; not to bring his Majeſty to juſtice (as ſome now ſpeak) but to put him into a better capacity to doe juſtice: <hi>To remove the wicked from before him, that his throne might be eſtabliſhed in righteouſneſſe;</hi> not to de<g ref="char:EOLhyphen"/>throne, and deſtroy him, which (we much fear) is the ready way to the deſtruction of all his Kingdomes.</p>
+            <pb n="4" facs="tcp:135390:4"/>
+            <!-- PDF PAGE 13 -->
+            <p>That which put on any of us at firſt to appear for the Parliament was, <hi>The Propoſitions and Orders of the Lords and Commons in Parliament</hi> (Jun. 10. 1642.) for bring<g ref="char:EOLhyphen"/>ing in of money and plate, <hi>&amp;c.</hi> wherein they aſſured us that whatſoever ſhould be brought in thereupon, ſhould not be at all employed upon any other occaſion, then to maintain <hi>The Proteſtant Religion, The Kings Authority, his Perſon in his royall dignity, the free courſe of justice, the Laws of the Land, the Peace of the Kingdome, and the Pri<g ref="char:EOLhyphen"/>viledges of Parliament, against any force which ſhall oppoſe them.</hi>
+            </p>
+            <p>And in this we were daily confirmed and encouraged more and more, by their many ſubſequent declarations and proteſtations, which we held our ſelves bound to beleeve, knowing many of them to be godly and con<g ref="char:EOLhyphen"/>ſcientious men, of Publike ſpirits, zealouſly promoting the common good, and labouring to free this Kingdome from tyranny and ſlavery, which ſome evill inſtruments about the King, endeavoured to bring upon the Nation.</p>
+            <p>As for the preſent actings at <hi>Weſtminſter,</hi> ſince the time that ſo many of the Members were by force ſeclu<g ref="char:EOLhyphen"/>ded, divers impriſoned, and others thereupon withdrew from the houſe of Commons (and, there not being that conjunction of the two Houſes, as heretofore) we are wholly unſatisfied therein, becauſe we conceive them to be ſo farre from being warranted by ſufficient Autho<g ref="char:EOLhyphen"/>rity, as that in our apprehenſions they tend to an actu<g ref="char:EOLhyphen"/>all alteration (if not ſubverſion) of that which the ho<g ref="char:EOLhyphen"/>nourable <hi>Houſe of Commons,</hi> in their <hi>Declaration</hi> of <hi>April</hi> 17. 1646. have taught us to call <hi>the Fundamentall con<g ref="char:EOLhyphen"/>ſtitution and government of this Kingdome,</hi> which they therein aſſure us (if we underſtand them) they would never alter.</p>
+            <pb n="5" facs="tcp:135390:4"/>
+            <!-- PDF PAGE 13 -->
+            <p>Yea, we hold our ſelves bound in duty to God, Re<g ref="char:EOLhyphen"/>ligion, the King, Parliament and Kingdome, to profeſſe before God, Angels and men, That we verily beleeve that which is ſo much feared to be now in agitation, <hi>the taking away the life of the King,</hi> in the preſent way of Trial, is, not only not agreeable to any Word of God, the principles of the Proteſtant Religion (never yet ſtained with the leaſt drop of bloud of a King) or the fundamen<g ref="char:EOLhyphen"/>tall conſtitution and government of this Kingdom; but, contrary to them, as alſo to the <hi>Oath of Allegiance,</hi> the <hi>Proteſtation</hi> of <hi>May</hi> 5. 1641. and the <hi>ſolemn League and Covenant:</hi> from all, or any of which Engagements, we know not any power on earth, able to abſolve us or others.</p>
+            <p>In which laſt, we have ſworn (with hands lifted up to the moſt high God) <hi>That we ſhall with ſincerity, reality, and conſtancy, in our ſeverall vocations, endeavour, with our eſtates and lives, mutually to preſerve and defend the Rights and Priviledges of the Parliaments, and the liberties of the Kingdomes, and to preſerve and defend the Kings Majeſties Perſon, and Authority, in the defence of the true Religion, and Liberties of the Kingdomes: That the world may bear wit<g ref="char:EOLhyphen"/>neſse with our conſciences of our Loyalty, and that we have no thoughts our intentions to diminiſh his Majesties just power and greatneſse.</hi>
+            </p>
+            <p>And we are yet further tied by another Article of the ſame Covenant; <hi>Not to ſuffer our ſelves, directly or indi<g ref="char:EOLhyphen"/>rectly, by whatſoever combination, perſwaſion or terrour, to be divided or withdrawn from this bleſſed union and conjunction, whether to make defection to the contrary party, or to give our ſelves to a deteſtable indifferency, or neutrality in this Cauſe which ſo much concerns the glory of God, the good of the
+<pb n="6" facs="tcp:135390:5"/>
+                  <!-- PDF PAGE 14 -->Kingdomes, and honour of the King: but ſhall all the daies of our lives, Zealouſly and conſtantly continue therein againſt all oppoſition, and promote the ſame according to our power againſt all lets and impediments whatſoever.</hi> And this we have not only taken ourſelves, but moſt of us have by com<g ref="char:EOLhyphen"/>mand of the Parliament adminiſtred it to others, whom we have thereby drawn in to be as deep as our ſelves in this publike engagement.</p>
+            <p>Therefore, According to that our Covenant, we doe in the Name of the great God (to whom all muſt give a ſtrict account) warn and exhort all who either more im<g ref="char:EOLhyphen"/>mediatly belong to our reſpective charges, or any way depend on our Miniſtry, or to whom we have adminiſtred the ſaid Covenant (that we may not by our ſilence ſuffer them to run upon that highly provoking ſin of Perjury) to keep cloſe to the waies of God, and the rules of Re<g ref="char:EOLhyphen"/>ligion, the Laws, and their Vows, in their conſtant maintaining the true Reformed Religion, the fundamen<g ref="char:EOLhyphen"/>tall Conſtitution, and Government of this Kingdome, (not ſuffering themſelves to be ſeduced from it, by be<g ref="char:EOLhyphen"/>ing drawn in to ſubſcribe the late Models, or <hi>Agree<g ref="char:EOLhyphen"/>ment of the people</hi>
+               <note n="*" place="margin">Declared by both <hi>Houſes</hi> (for the ſub<g ref="char:EOLhyphen"/>ſtance of it) to be <hi>Deſtru<g ref="char:EOLhyphen"/>ctive to the be<g ref="char:EOLhyphen"/>ing of Parlia<g ref="char:EOLhyphen"/>ments, and to the fundamen<g ref="char:EOLhyphen"/>tall Govern<g ref="char:EOLhyphen"/>ment of the Kingdom,</hi> in <hi>Decemb.</hi> 1647<g ref="char:punc">▪</g> yea, condemn<g ref="char:EOLunhyphen"/>ed heretofore by the <hi>Ge<g ref="char:EOLhyphen"/>neral,</hi> and his <hi>Councel</hi> of Warre, and one of the ſouldi<g ref="char:EOLhyphen"/>ers ſhot to d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h for pro<g ref="char:EOLhyphen"/>moting it.</note>, which directly tends to the utter ſub<g ref="char:EOLhyphen"/>verſion of the whole frame of the fundamentall govern<g ref="char:EOLhyphen"/>ment of the Land, and makes way for an univerſall tole<g ref="char:EOLhyphen"/>ration of all hereſies and blaſphemies (directly contrary to our Covenant) if they can but get their Abettors to cover them under a falſe guiſe, of <hi>the Chriſtian Religion</hi>) as alſo in preſerving the Priviledges of both Houſes of Parliament, and the Union between the two Nations of England and Scotland: to mourn bitterly for their own ſins, the ſins of the City, Army, Parliament and King<g ref="char:EOLhyphen"/>dome, and the wofull miſcarriages of the King him<g ref="char:EOLhyphen"/>ſelf,
+<pb n="7" facs="tcp:135390:5"/>
+               <!-- PDF PAGE 14 -->(which we cannot but acknowledge to be many and very great) in his Government, that have coſt the three Kingdomes ſo dear, and caſt him down from his Excellency into an horrid pit of miſery, almoſt beyond example. And to pray that God would both give him effectuall repentance, and ſanctify that bitter cup of Di<g ref="char:EOLhyphen"/>vine Diſpleaſure, that the Divine providence hath put in<g ref="char:EOLhyphen"/>to his hand; as alſo that God would reſtrain the violence of men, that they may not dare to draw upon themſelves and the Kingdome the bloud of their Soveraign.</p>
+            <p>And now, we have good reaſon to expect that they who brought us under ſuch a bond, and thereby led us into the neceſſity of this preſent Vindication and ma<g ref="char:EOLhyphen"/>nifeſtation of our judgements and diſcharge of our con<g ref="char:EOLhyphen"/>ſciences, ſhould defend us in it. However, we reſolve rather to be of their number that tremble at his <hi>Ter<g ref="char:EOLhyphen"/>rours</hi> who is a <hi>conſuming fire,</hi> and will not fail <hi>to avenge the quarell of his Covenant,</hi> upon all that contemn it, then to be found among thoſe who <hi>deſpiſe the Oath by break<g ref="char:EOLhyphen"/>ing his Covenant (after lifting up the hand)</hi> although it had been made but in Civil things only,
+<note place="margin">Lev. 26. Ezek. 17. 2 Sam. 21.</note> and that with the worſt of men.</p>
+            <list>
+               <item>
+                  <hi>C. Burges,</hi> D.D. Preacher of the Word in <hi>Pauls Lond.</hi>
+               </item>
+               <item>
+                  <hi>Will Gouge</hi> D.D. Paſtor of <hi>Black-friers.</hi>
+               </item>
+               <item>
+                  <hi>Edm. Stanton</hi> D.D. Paſtor of <hi>Kingston.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Temple</hi> D.D. Paſtor of <hi>Batterſey.</hi>
+               </item>
+               <pb n="8" facs="tcp:135390:6"/>
+               <!-- PDF PAGE 15 -->
+               <item>
+                  <hi>Geo. Walker</hi> Paſtor of <hi>John Evang.</hi>
+               </item>
+               <item>
+                  <hi>Edm. Calamy</hi> Paſtor of <hi>Aldermanbury.</hi>
+               </item>
+               <item>
+                  <hi>Jer. Whitaker</hi> Paſtor of <hi>Mag: Bermunſey.</hi>
+               </item>
+               <item>
+                  <hi>Dan. Cawdrey</hi> Miniſt. of <hi>Martins</hi> in the <hi>Fields.</hi>
+               </item>
+               <item>
+                  <hi>William Spurſtow</hi> Miniſt. of <hi>Hackney.</hi>
+               </item>
+               <item>
+                  <hi>La. Seaman</hi> Paſtor of <hi>Alh. Breadstreet.</hi>
+               </item>
+               <item>
+                  <hi>Simeon Aſhe</hi> Min. of <hi>Michael Baſingſhaw.</hi>
+               </item>
+               <item>
+                  <hi>Tho Caſe</hi> Miniſt. of <hi>Magd. Milkſtreet,</hi>
+               </item>
+               <item>
+                  <hi>Nich. Proffet</hi> Miniſter at <hi>Fosters.</hi>
+               </item>
+               <item>
+                  <hi>Thom. Thorowgood</hi> Miniſt. of <hi>Crayford.</hi>
+               </item>
+               <item>
+                  <hi>Edw. Corbet</hi> Miniſt. of <hi>Croyden.</hi>
+               </item>
+               <item>
+                  <hi>Henry Roborough</hi> Paſtor of <hi>Leonards East-Cheap.</hi>
+               </item>
+               <item>
+                  <hi>Arthur Jackson</hi> Paſtor of <hi>Michaels Wood-ſtreet.</hi>
+               </item>
+               <item>
+                  <hi>Ja Nalton</hi> Paſtor of <hi>Leonards Foſterlane.</hi>
+               </item>
+               <item>
+                  <hi>Tho Cawton</hi> Paſt. of <hi>Bartholomewes Exchange.</hi>
+               </item>
+               <item>
+                  <hi>Charles Offſpring</hi> Paſtor of <hi>Antholins.</hi>
+               </item>
+               <item>
+                  <hi>Sa. Clark</hi> Miniſter of <hi>Bennet Fynk.</hi>
+               </item>
+               <item>
+                  <hi>Jo. Wall</hi> Miniſter of <hi>Michael Cornhill.</hi>
+               </item>
+               <pb n="9" facs="tcp:135390:6"/>
+               <!-- PDF PAGE 15 -->
+               <item>
+                  <hi>Fran. Roberts</hi> Paſtor of the Church at <hi>Au<g ref="char:EOLhyphen"/>stins.</hi>
+               </item>
+               <item>
+                  <hi>Mat. Haviland</hi> Paſtor of <hi>Trinity.</hi>
+               </item>
+               <item>
+                  <hi>John Sheffield</hi> Miniſter of <hi>Swithins.</hi>
+               </item>
+               <item>
+                  <hi>William Harriſon</hi> Miniſter of <hi>Gracechurch.</hi>
+               </item>
+               <item>
+                  <hi>William Jenkyn</hi> Miniſt. of <hi>Chriſtchurch.</hi>
+               </item>
+               <item>
+                  <hi>John Viner</hi> Paſtor of <hi>Buttolph Algate.</hi>
+               </item>
+               <item>
+                  <hi>Elidad Blackwell</hi> Paſtor of <hi>Andrew Vnderſhaft.</hi>
+               </item>
+               <item>
+                  <hi>John Croſſe</hi> Miniſter at <hi>Mathews Fridaystreet.</hi>
+               </item>
+               <item>
+                  <hi>John Fuller</hi> Miniſter at <hi>Buttolph Biſhopſgate.</hi>
+               </item>
+               <item>
+                  <hi>William Taylor</hi> Paſtor of <hi>Stephens Colemanſtreet.</hi>
+               </item>
+               <item>
+                  <hi>Peter Witham</hi> Paſtor of <hi>Albanes VVoodſtreet.</hi>
+               </item>
+               <item>
+                  <hi>Fran. Peck</hi> Paſtor of <hi>Nich. Acorne.</hi>
+               </item>
+               <item>
+                  <hi>Chriſtopher Love</hi> Paſtor of <hi>Anne Alderſgate.</hi>
+               </item>
+               <item>
+                  <hi>John VVallis</hi> Miniſter of <hi>Martin Ironmonger<g ref="char:EOLhyphen"/>lane.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Watſon</hi> Paſtor of <hi>Stevens VValbrook.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Bedford</hi> Paſtor of <hi>Martins Outwich.</hi>
+               </item>
+               <item>
+                  <hi>William VVickins</hi> Paſtor of <hi>Andrew Hubbard.</hi>
+               </item>
+               <pb n="10" facs="tcp:135390:7"/>
+               <!-- PDF PAGE 16 -->
+               <item>
+                  <hi>Tho. Manton</hi> Miniſter of <hi>Stoke Newington.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Gouge</hi> Paſtor of <hi>Sepulchers.</hi>
+               </item>
+               <item>
+                  <hi>William Blackmore</hi> Paſtor of <hi>Peters Cornhill.</hi>
+               </item>
+               <item>
+                  <hi>Robert Mercer</hi> Miniſter of <hi>Brides.</hi>
+               </item>
+               <item>
+                  <hi>Ra Robinſon</hi> Paſtor of <hi>Mary Woolnorth.</hi>
+               </item>
+               <item>
+                  <hi>John Glaſcock</hi> Min. at <hi>
+                     <g ref="char:V">Ʋ</g>ndetſhaft.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Whately</hi> Miniſter at <hi>Mary Wool-Church.</hi>
+               </item>
+               <item>
+                  <hi>Jonathan LLoyde</hi> Paſtor of <hi>Iames Garlick Hithe.</hi>
+               </item>
+               <item>
+                  <hi>John Wells</hi> Paſtor of <hi>Olaves Iury.</hi>
+               </item>
+               <item>
+                  <hi>Benjamin Needler</hi> Paſtor of <hi>Margaret Moſes.</hi>
+               </item>
+               <item>
+                  <hi>Nath. Staniforth</hi> Miniſter of <hi>Mary Bothaw.</hi>
+               </item>
+               <item>
+                  <hi>Steven Watkins</hi> Miniſter of <hi>Mary Overies.</hi>
+               </item>
+               <item>
+                  <hi>Jacob Tice</hi> Paſtor of <hi>Buttolph Billingsgate.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Stileman</hi> Miniſter at <hi>Rotherhithe.</hi>
+               </item>
+               <item>
+                  <hi>Ioſias Bull</hi> Paſtor of <hi>North Cray.</hi>
+               </item>
+               <item>
+                  <hi>Ionathan Deverux</hi> late Miniſter at <hi>Andrews Holburne.</hi>
+               </item>
+               <pb n="11" facs="tcp:135390:7"/>
+               <!-- PDF PAGE 16 -->
+               <item>
+                  <hi>Paul Ruſſell</hi> Preacher at <hi>Hackney.</hi>
+               </item>
+               <item>
+                  <hi>Ioſuah Kirby</hi> Miniſter of the Word.</item>
+               <item>
+                  <hi>Arthur Barham</hi> Paſtor at <hi>Hellens.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
